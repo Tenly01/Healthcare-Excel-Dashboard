@@ -24,3 +24,14 @@ Support management in improving revenue collection and patient satisfaction by a
 - Clear view of revenue leakage
 - Actionable insights to improve data capture & collection efficiency
 - Interactive dashboard enabling drill-down by year, payment status, and visit type
+
+  ##  Project Files
+
+- `Messy_Healthcare_Dataset.xlsx` → Main project file containing:
+  - **Sheet 1: Original Dataset** — raw healthcare billing & demographics data  
+  - **Sheet 2: Cleaned Dataset** — duplicates removed, missing values handled, data types corrected, helper columns added  
+  - **Sheet 3: KPIs** — calculated metrics (Total Billing, Total Collected, Collection Rate, Outstanding Balance)  
+  - **Sheet 4: Pivot Visuals** — pivot tables, charts, and slicers (Year, Payment Status, Visit Type)  
+  - **Sheet 5: Dashboard** — final interactive dashboard combining KPIs, trends, and demographic insights  
+
+
